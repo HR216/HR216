@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HR216
-- 👀 I’m interested in Anddroid app development & Web development.
+- 👋 Hi, I’m @Shinichi
+- 👀 I’m interested in Anddroid app development.
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Android app development.
+- 💞️ Hope one day i can collaborate on Android app development.
 - 📫 How to reach me ...
 
 <!---
